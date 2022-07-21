@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.detalhe img{
+    height: 300px;
+}
+.detalhe{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.botao{
+    margin-left: 50px;
+}
+.formulario{
+    margin-left: 50px;
+}
+.formulario li{
+    margin-top: 5px;
+}
