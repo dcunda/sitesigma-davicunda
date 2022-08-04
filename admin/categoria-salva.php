@@ -44,7 +44,7 @@ include_once '_menu.php';
         }
         ?>
     <input type="file" name="foto">
-        
+     <hr>   
     <input type="submit" value="Enviar">
 
     </form>
