@@ -68,17 +68,16 @@ CREATE TABLE `produtos` (
 --
 
 INSERT INTO `produtos` (`ProdutoID`, `Nome`, `Descricao`, `Imagem`, `Preco`, `Categoria`, `Ativo`) VALUES
-(1, 'nft capivara', 'Descrição nft capivara', 'nft-capivara.jpg', 1200, 1, 1),
-(2, 'nft capivara', 'Descrição nft capivara', 'nft-capivara.jpg', 1200, 1, 1),
-(3, 'nft neymar', 'Descrição nft neymar', 'nft-neymar.jpg', 50000, 1, 1),
-(4, 'nft gremio', 'Descrição nft gremio', 'nft-gremio.jpg', 150000, 1, 1),
-(5, 'nft gorila', 'Descrição nft gorila', 'nft-gorila.jpg', 1500, 1, 1),
-(6, 'nft leão', 'Descrição nft leão', 'nft-leão.jpg', 1600, 1, 1),
-(7, 'nft pato', 'Descrição nft pato', 'nft-pato.jpg', 2400, 1, 1),
-(8, 'nft crocodilo', 'Descrição nft crocodilo', 'nft-crocodilo.jpg', 3500, 1, 1),
-(9, 'nft panda', 'Descrição nft panda', 'nft-panda.jpg', 1200, 1, 1),
-(10, 'nft rato', 'Descrição nft rato', 'nft-rato.jpg', 50000, 1, 1),
-(11, 'nft macaco', 'Descrição nft macaco', 'nft-macaco.jpg', 50000, 1, 1);
+(1, 'Gorila Roxo', 'Descrição gorila roxo', 'gorila-legal.jpg', 1200, 1, 1),
+(2, 'Neymar', 'Descrição neymar', 'neymar.jpg', 1200, 1, 1),
+(3, 'CR7', 'Descrição cr7', 'cr7.jpg', 50000, 1, 1),
+(4, 'Capivara', 'Descrição capivara', 'capivara.jpg', 150000, 1, 1),
+(5, 'Rato Maconheiro', 'Descrição linguini', 'linguini.jpg', 1500, 1, 1),
+(6, 'Papito', 'Descrição papito', 'papito.jpg', 1600, 1, 1),
+(7, 'Ratue', 'Descrição ratue', 'ratue.jpg', 2400, 1, 1),
+(8, 'Sherk', 'Descrição sherk', 'sherk.jpg', 3500, 1, 1),
+(9, 'Vegeta Calvo', 'Descrição vegeta', 'vegeta-calvo.jpg', 1200, 1, 1),
+(10, 'Zoro do Rodo', 'Descrição zoro', 'zoro.jpg', 50000, 1, 1);
 
 --
 -- Índices para tabelas despejadas
